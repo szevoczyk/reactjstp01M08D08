@@ -6,6 +6,7 @@ import TextInput from "./TextInput";
 import Button from '@material-ui/core/Button';  
 import DisablableButton from "./DisablableButton";
 import NewPeople from "./NewPeople";
+import NewPeople2 from "./NewPeople2";
 
 const App = () => {
   return (
@@ -37,6 +38,7 @@ const App = () => {
         text="Disable-me !" />
       <br/>
       <NewPeople />
+      <NewPeople2 />
     </div>
   );
 };
