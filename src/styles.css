@@ -2,3 +2,16 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.pure-material-button {
+  color:blue;
+}
+
+.input {
+  width: 50%;
+}
+
+button:disabled{
+  background-color: #cccccc;
+  color: #666666;
+}

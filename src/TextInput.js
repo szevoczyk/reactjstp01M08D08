@@ -2,7 +2,7 @@ import React from "react";
 
 function TextInput(props) {
     return (
-        <input clas="input" type="text"></input>
+        <input className="input" type="text"></input>
     );
 }
 
